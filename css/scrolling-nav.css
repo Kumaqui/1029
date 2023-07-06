@@ -1,0 +1,225 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+
+ header {
+ 	padding: 154px 0 100px;
+ }
+
+ @media (min-width: 992px) {
+ 	header {
+ 		padding: 156px 0 100px;
+ 	}
+ }
+
+ section {
+ 	padding: 50px 0;
+ }
+
+ body{
+ 	background-image: url("../img/white_wall_hash.png");
+ 	background-repeat: repeat;
+ }
+
+ .bg-light {
+ 	background-color: #fff;
+ 	background-repeat: repeat;
+ }
+
+ .bg-primary {
+ 	background-image: url("../img/bg.jpg");
+ 	background-color: #333!important;
+ 	background-position: 50% 50%;
+ }
+
+ .bg-dark {
+ 	background-color: #000!important;
+ }
+
+ .bg-primary2 {
+ 	background-image: url("../img/bg2.jpg");
+ 	background-repeat: repeat;
+ }
+
+ .bg-yellow {
+ 	background-color: #FCD25B!important;
+ }
+
+ .begin{
+ 	font-size: 32px;
+ 	background-color: #fff;
+ 	border-radius: 10px;
+ 	color:#FCD25B;
+ 	padding: 10px;
+ 	letter-spacing: 4px;
+ 	right:20px;
+
+ }
+ .line-left{
+ 	padding-right: 5px;
+ 	padding-left: 5px;
+ 	border-right: 1px solid #ccc;
+
+ }
+
+ .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+ 	color: #fff;
+ 	background-color: #333;
+ }
+
+ .f-b{
+ 	color: #fff;
+ }
+
+ a {
+ 	background-color: transparent;
+ 	color: #000;
+ 	font-size: 14px;
+ 	text-decoration: none;
+ 	-webkit-text-decoration-skip: objects;
+ }
+
+ li {
+ 	color: #000;
+ 	font-size: 14px;
+ 	font-weight: 500;
+ }
+
+ ext-decoration: underline;
+}
+
+h1{
+	color:#000;
+	letter-spacing: 6px;
+}
+
+h2{
+	color:#000;
+	font-size: 22px;
+	letter-spacing: 2px;
+}
+
+h5{
+	color:#000;
+	font-size: 18px;
+	letter-spacing: 1px;
+	top:30px;
+}
+
+p{
+	color:#333;
+	font-size: 15px;
+	font-weight: 400;
+	letter-spacing: 1px;
+	line-height: 28px;
+}
+
+span{
+	color:#333;
+	font-size: 13px;
+	font-weight: 600;
+	letter-spacing: 1px;
+	line-height: 14px;
+}
+
+.keyword{
+	padding-top:7px;
+	padding-right:12px;
+	font-size: 22px;
+
+}
+
+.pt-10{
+	padding-top: 10px;
+}
+
+.pt-20{
+	padding-top: 20px;
+}
+
+
+
+.pt-40{
+	padding-top: 40px;
+}
+
+.pb-40{
+	padding-bottom: 40px;
+}
+.pb-20{
+	padding-bottom: 20px;
+}
+
+
+.list-group-item.active {
+	z-index: 2;
+	color: #333;
+	background-color: #565656;
+	border-color: rgba(0,0,0,.125);
+}
+
+a:hover {
+	color: #333;
+	background-color: #E2E2E2;
+	text-decoration: underline;
+}
+
+.pt-5, .py-5 {
+	padding-top: 10px!important;
+}
+
+.pt-20{
+	padding-top: 20px;
+}
+
+
+
+.card-header2 {
+	margin-bottom: 0;
+	border-bottom: 1px solid rgba(0,0,0,.125);
+}
+
+
+.bg-dark2{
+	background-image: url("../img/bg3.jpg");
+	background-repeat: repeat;
+}
+
+.navbar-brand {
+	color:#333;
+	display: inline-block;
+	padding-top: .3125rem;
+	padding-bottom: .3125rem;
+	margin-right: 1rem;
+	font-size: 16px;
+	line-height: inherit;
+	letter-spacing: 1px;
+	white-space: nowrap;
+}
+
+.nav-link2 {
+	display: block;
+	padding: .5rem 1rem;
+	padding-top: 30px;
+}
+
+body{
+	background-color: #333;
+}
+
+section{
+	position: relative;
+	top: 40px;
+}
+
+.call-to-action{
+	background-color: #eee;
+}
+
+
+
+
+
+
